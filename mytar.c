@@ -1,5 +1,3 @@
-/* THIS CODE WAS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING ANY
-SOURCES OUTSIDE OF THOSE APPROVED BY THE INSTRUCTOR. Rahil Vasa*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
